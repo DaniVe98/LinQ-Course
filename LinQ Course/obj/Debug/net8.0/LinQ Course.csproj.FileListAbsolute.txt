@@ -1,0 +1,14 @@
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.AssemblyInfoInputs.cache
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.AssemblyInfo.cs
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.csproj.CoreCompileInputs.cache
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\bin\Debug\net8.0\LinQ Course.exe
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\bin\Debug\net8.0\LinQ Course.deps.json
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\bin\Debug\net8.0\LinQ Course.runtimeconfig.json
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\bin\Debug\net8.0\LinQ Course.dll
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\bin\Debug\net8.0\LinQ Course.pdb
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.dll
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\refint\LinQ Course.dll
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.pdb
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\LinQ Course.genruntimeconfig.cache
+C:\Users\daniel.vega\OneDrive - Inchcape\Escritorio\LinQ Course Proyect\LinQ Course\obj\Debug\net8.0\ref\LinQ Course.dll
